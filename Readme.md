@@ -4,5 +4,5 @@ Requirements： pytorch >= 0.4.1, numpy, tqdm
               
 download SIGHAN 2005  
 training: sh train.sh  
-test: sh predict.sh
+test: 
 
