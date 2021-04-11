@@ -6,3 +6,5 @@ download SIGHAN 2005
 training: sh train.sh  
 test: sh test.sh
 
+
+
